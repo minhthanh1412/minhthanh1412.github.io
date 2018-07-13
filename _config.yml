@@ -2,7 +2,7 @@
 title: Blog | MinhThanh
 email: sannguyen449@gmail.com
 description: My first time!
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.minhthanh1412.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
