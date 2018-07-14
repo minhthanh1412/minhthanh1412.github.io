@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Information"
 description: Code is all....
@@ -9,9 +9,7 @@ tags:
 twitter_text: Code is all...
 introduction: Minh Thành
 ---
+
 >**Name:** Nguyễn Văn Sang.
----
 >**Nickname:** Minh Thành.
----
 >**Job:** Studying Informatic Technology at Tra Vinh University.
----
