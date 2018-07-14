@@ -2,7 +2,7 @@
 layout: post
 title: "Information"
 description: Code is all....
-image: 'https://imgur.com/zFo9O8j'
+image: 'https://minhthanh1412.github.io/images/avt.jpg'
 category: 'Life'
 tags:
 - Life
