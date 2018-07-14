@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Minhas primeiras 5 impressões sobre Django"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "Information"
+description: Code is all....
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
-category: 'django'
+category: 'Life'
 tags:
-- django
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Life
+twitter_text: Code is all...
+introduction: Minh Thành
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
