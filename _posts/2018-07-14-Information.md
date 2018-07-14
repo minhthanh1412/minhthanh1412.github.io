@@ -10,8 +10,9 @@ twitter_text: Code is all...
 introduction: Minh Thành
 ---
 
-**Name:** Nguyễn Văn Sang.
+>**Name:** Nguyễn Văn Sang.
 ---
-**Nickname:** Minh Thành.
+>**Nickname:** Minh Thành.
 ---
-**Job:** Studying Informatic Technology at Tra Vinh University.
+>**Job:** Studying Informatic Technology at Tra Vinh University.
+---
