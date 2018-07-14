@@ -10,6 +10,6 @@ twitter_text: Code is all...
 introduction: Minh Thành
 ---
 
-Name: Nguyễn Văn Sang
-Nickname: Minh Thành
-Nghề nghiệp: Sinh viên ngành Công nghệ thông tin TVU
+>Name: Nguyễn Văn Sang.
+>Nickname: Minh Thành.
+>Nghề nghiệp: Sinh viên ngành Công nghệ thông tin TVU.
