@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Minhas primeiras 5 impressões sobre Django"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "Information"
+description: Code is all.
 image: 'https://minhthanh1412.github.io/images/avt.jpg'
-category: 'django'
+category: 'Life'
 tags:
-- django
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Life
+- Information
+twitter_text: Information.
+introduction: Student of Tra Vinh University.
 ---
+* Name: Nguyễn Văn Sang.
+* Nickname: Minh Thành.
+* Job: Studying Informatic Technology at Tra Vinh University.
+
