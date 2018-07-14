@@ -2,7 +2,7 @@
 layout: post
 title: "Minhas primeiras 5 impressões sobre Django"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'https://minhthanh1412.github.io/images.avt.jpg'
+image: 'https://minhthanh1412.github.io/images/avt.jpg'
 category: 'django'
 tags:
 - django
