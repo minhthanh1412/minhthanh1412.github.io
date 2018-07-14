@@ -9,7 +9,7 @@ tags:
 twitter_text: Code is all...
 introduction: Minh Thành
 ---
-
+<img src="images/avt.jpg">
 >**Name:** Nguyễn Văn Sang.
 ---
 >**Nickname:** Minh Thành.
