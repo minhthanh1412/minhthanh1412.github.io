@@ -1,5 +1,4 @@
-
-  ---
+---
 layout: post
 title: "Minhas primeiras 5 impressões sobre Django"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
